@@ -5,7 +5,7 @@ apt update
 
 apt install git -y
 
-https://github.com/J-scripting/J-TRACER.git
+git clone https://github.com/J-scripting/J-TRACER.git
 
 cd J-TRACER
 
